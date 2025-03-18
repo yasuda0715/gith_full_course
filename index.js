@@ -1,1 +1,3 @@
-Console.log('誰かが変更しましたよ');
+function greet(){
+    console.log('hello local buranch!')
+}
